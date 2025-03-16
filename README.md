@@ -18,3 +18,10 @@ Practical 5 (Output)
 
 ![Screenshot 2025-03-16 234057](https://github.com/user-attachments/assets/e1bed3ac-1279-43ec-857d-53a66372deda)
 
+Practical 6 (Input)
+![Screenshot 2025-03-16 235401](https://github.com/user-attachments/assets/6fdf5f22-f8db-4985-80de-109f596b73ce)
+![Screenshot 2025-03-16 235428](https://github.com/user-attachments/assets/e156557f-ae7b-4408-9239-62f64d075bb7)
+Practical 6 (Output)
+![Screenshot 2025-03-16 235439](https://github.com/user-attachments/assets/04b18c9f-613c-49df-a97c-8ed7216e4bf0)
+
+
