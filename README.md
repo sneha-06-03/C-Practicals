@@ -34,3 +34,27 @@ Practical 8 (Input)
 Practical 8 (Output)
 ![Screenshot 2025-03-17 000608](https://github.com/user-attachments/assets/c100ab8f-a64c-4963-9d37-6f4b6cbaa794)
 
+Practical 9 (Input)
+![Screenshot 2025-03-17 001454](https://github.com/user-attachments/assets/89b6de84-f1c3-4381-adb2-ea73a83447a6)
+![Screenshot 2025-03-17 001600](https://github.com/user-attachments/assets/4f9a057f-cc5a-4785-aa67-f98a0cc4861c)
+Practical 9 (Output)
+![Screenshot 2025-03-17 001623](https://github.com/user-attachments/assets/ba355576-1601-4c48-a33e-4afaff02ffaa)
+
+Practical 10 (Input)
+![Screenshot 2025-03-17 001805](https://github.com/user-attachments/assets/90dbb71c-c42c-4992-bc5f-3736d9d989ba)
+![Screenshot 2025-03-17 001823](https://github.com/user-attachments/assets/346483a8-9901-47d1-9dbd-215adbd68fc6)
+![Screenshot 2025-03-17 001836](https://github.com/user-attachments/assets/9a47a0d5-a8b5-4b0d-87ee-91106a22b333)
+Practical 10 (Output)
+![Screenshot 2025-03-17 001857](https://github.com/user-attachments/assets/ef965649-62a2-4234-9c55-642dc9b6d142)
+
+
+
+
+
+
+
+
+
+
+
+
