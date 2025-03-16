@@ -64,4 +64,13 @@ Practical 12 (Output)
 
 
 
+Practical 14 (Input)
+![Screenshot 2025-03-17 004248](https://github.com/user-attachments/assets/fac8809b-ea4d-47bd-ad54-381b9ee82e9e)
+Practical 14 (Output)
+![Screenshot 2025-03-17 004412](https://github.com/user-attachments/assets/7658ea65-d5ed-4b84-8745-55bd8c004bff)
+
+
+
+
+
 
