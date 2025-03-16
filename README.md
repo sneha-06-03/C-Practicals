@@ -50,8 +50,13 @@ Practical 10 (Output)
 Practical 11
 ![Screenshot 2025-03-17 002502](https://github.com/user-attachments/assets/74fdcb7d-6174-4b8e-b6df-43b442ea51c4)
 
-
-
+Practical 12 (Input)
+![Screenshot 2025-03-17 002859](https://github.com/user-attachments/assets/08579df8-6fe5-4c9a-b3a9-84833d691289)
+![Screenshot 2025-03-17 002921](https://github.com/user-attachments/assets/4eb3ee20-8d7e-46b1-9532-b8cb1b810157)
+![Screenshot 2025-03-17 002956](https://github.com/user-attachments/assets/9016c96f-35fd-4d24-b0a5-2e4f458286de)
+![Screenshot 2025-03-17 003013](https://github.com/user-attachments/assets/a8cb0663-1f8b-48d0-9704-ff75cf118643)
+Practical 12 (Output)
+![Screenshot 2025-03-17 003028](https://github.com/user-attachments/assets/c5506beb-adae-4aaa-a37e-265f0611cea3)
 
 
 
