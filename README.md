@@ -47,6 +47,8 @@ Practical 10 (Input)
 Practical 10 (Output)
 ![Screenshot 2025-03-17 001857](https://github.com/user-attachments/assets/ef965649-62a2-4234-9c55-642dc9b6d142)
 
+Practical 11
+![Screenshot 2025-03-17 002502](https://github.com/user-attachments/assets/74fdcb7d-6174-4b8e-b6df-43b442ea51c4)
 
 
 
