@@ -1,5 +1,7 @@
 # C++ Practicals
+Practical 1
 ![Screenshot 2025-03-16 231105](https://github.com/user-attachments/assets/0bbccfae-c72b-4140-bb6f-cb4d179ff1f0)
+Practical 2
 ![Screenshot 2025-03-16 231420](https://github.com/user-attachments/assets/c24a919f-193a-44d7-81ab-2c2aa0be5bee)
 ![Screenshot 2025-03-16 231734](https://github.com/user-attachments/assets/d81ca12a-a9fa-4bfb-9fc5-3bb5829fc3bb)
 ![Screenshot 2025-03-16 232618](https://github.com/user-attachments/assets/47c3e6e4-090b-42c1-90bd-2f5320ecd2ba)
