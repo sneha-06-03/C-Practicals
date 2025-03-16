@@ -24,4 +24,13 @@ Practical 6 (Input)
 Practical 6 (Output)
 ![Screenshot 2025-03-16 235439](https://github.com/user-attachments/assets/04b18c9f-613c-49df-a97c-8ed7216e4bf0)
 
+Practical 7
+![Screenshot 2025-03-17 000016](https://github.com/user-attachments/assets/ab812812-895c-482d-a870-e5a18693d577)
+
+Practical 8 (Input)
+![Screenshot 2025-03-17 000428](https://github.com/user-attachments/assets/48c84a4d-d5c4-4531-82f4-83369f0f26fb)
+![Screenshot 2025-03-17 000500](https://github.com/user-attachments/assets/189c0e46-2a00-42fe-8a5c-14d97b28928f)
+![Screenshot 2025-03-17 000529](https://github.com/user-attachments/assets/37c917e1-9bba-478a-b23e-8509e6c91325)
+Practical 8 (Output)
+![Screenshot 2025-03-17 000608](https://github.com/user-attachments/assets/c100ab8f-a64c-4963-9d37-6f4b6cbaa794)
 
